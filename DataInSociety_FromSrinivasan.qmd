@@ -1,0 +1,6 @@
+---
+title: "DataInSociety_FromSrinivasan"
+author: "Maria Mangru"
+format: pdf
+editor: visual
+---

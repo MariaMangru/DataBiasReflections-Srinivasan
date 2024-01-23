@@ -3,7 +3,7 @@ title: "DataInSociety_FromSrinivasan"
 author: "Maria Mangru"
 format: pdf
 editor: visual
-output-dir: "output"
+output-dir: "../output"
 output-file: "DataInSociety_Paper.pdf"
 ---
 
